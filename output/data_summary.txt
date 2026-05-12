@@ -1,0 +1,44 @@
+First-stage sovereign default and macro-financial panel summary
+
+Default countries: 166
+Default year range: 1960-2023
+Default country-year observations: 10624
+Joint panel country-year observations: 10624
+default_state == 1: 5224 (49.172%)
+Default onset observations: 400
+Hard onset observations: 299
+Macro variables downloaded:
+  - gdp_growth (NY.GDP.MKTP.KD.ZG)
+  - inflation (FP.CPI.TOTL.ZG)
+  - current_account_gdp (BN.CAB.XOKA.GD.ZS)
+  - external_debt_gni (DT.DOD.DECT.GN.ZS)
+  - debt_service_exports (DT.TDS.DECT.EX.ZS)
+  - reserves_usd (FI.RES.TOTL.CD)
+  - exchange_rate (PA.NUS.FCRF)
+  - gdp_current_usd (NY.GDP.MKTP.CD)
+  - central_gov_debt_gdp (GC.DOD.TOTL.GD.ZS)
+Unmatched default countries: 0
+
+Macro variables with highest missingness in the joint panel:
+  - central_gov_debt_gdp: 88.441%
+  - debt_service_exports: 56.109%
+  - external_debt_gni: 49.030%
+  - current_account_gdp: 43.882%
+  - inflation: 35.505%
+  - reserves_usd: 32.314%
+  - gdp_growth: 20.934%
+  - gdp_current_usd: 19.032%
+  - exchange_rate: 16.820%
+
+Countries with highest total macro missingness:
+                                       country iso3  total_missing_macro_values  share_all_macro_cells_missing
+                                       Anguila  AIA                         576                       1.000000
+                                  Cook Islands  COK                         576                       1.000000
+Korea, Democratic People's Republic of (North)  PRK                         576                       1.000000
+                          Netherlands Antilles  ANT                         576                       1.000000
+                                    Yugoslavia  YUG                         576                       1.000000
+                                   South Sudan  SSD                         511                       0.887153
+                                  Sint Maarten  SXM                         509                       0.883681
+                                       Curaçao  CUW                         484                       0.840278
+                                          Cuba  CUB                         456                       0.791667
+                                  Turkmenistan  TKM                         455                       0.789931
