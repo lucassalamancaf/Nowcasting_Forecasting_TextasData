@@ -1,0 +1,205 @@
+country,country_txt,region_txt,country_months,attack_months,n_attacks_strict,n_attacks_all,fatalities_all,injuries_all,max_monthly_attacks,attack_month_share
+95,Iraq,Middle East & North Africa,252,224,23827,27360,80997,138162,417,0.8888888888888888
+4,Afghanistan,South Asia,252,240,15351,18796,67120,66436,234,0.9523809523809523
+153,Pakistan,South Asia,252,248,11836,13687,21980,38339,263,0.9841269841269841
+92,India,South Asia,252,252,9788,10887,11016,19818,144,1.0
+147,Nigeria,Sub-Saharan Africa,252,192,4841,5469,28650,12196,85,0.7619047619047619
+160,Philippines,Southeast Asia,252,236,4738,6283,5534,9173,81,0.9365079365079365
+228,Yemen,Middle East & North Africa,252,180,4196,5920,12770,13364,83,0.7142857142857143
+205,Thailand,Southeast Asia,252,216,3286,3975,2525,7393,73,0.8571428571428571
+182,Somalia,Sub-Saharan Africa,252,187,3261,5148,12836,10774,88,0.7420634920634921
+45,Colombia,South America,252,235,2382,2712,3329,4962,76,0.9325396825396826
+200,Syria,Middle East & North Africa,252,119,2071,2851,18338,17038,64,0.4722222222222222
+113,Libya,Middle East & North Africa,252,103,1935,2491,2917,3840,77,0.4087301587301587
+60,Egypt,Middle East & North Africa,252,121,1683,2179,3516,4484,87,0.4801587301587302
+167,Russia,Eastern Europe,252,216,1661,1914,3476,6307,44,0.8571428571428571
+141,Nepal,South Asia,252,197,1445,1508,1914,2099,97,0.7817460317460317
+209,Turkey,Middle East & North Africa,252,200,1441,1996,2647,7449,93,0.7936507936507936
+229,Democratic Republic of the Congo,Sub-Saharan Africa,252,158,1266,1490,6978,1995,41,0.626984126984127
+603,United Kingdom,Western Europe,252,206,1259,1340,156,1456,29,0.8174603174603174
+155,West Bank and Gaza Strip,Middle East & North Africa,252,222,1206,1606,1043,1975,52,0.8809523809523809
+97,Israel,Middle East & North Africa,252,206,1168,1318,975,4662,135,0.8174603174603174
+19,Bangladesh,South Asia,252,161,1096,1174,530,3082,172,0.6388888888888888
+6,Algeria,Middle East & North Africa,252,187,947,1360,3678,3371,19,0.7420634920634921
+195,Sudan,Sub-Saharan Africa,252,177,908,992,3629,2440,33,0.7023809523809523
+214,Ukraine,Eastern Europe,252,95,893,1792,2295,2872,83,0.376984126984127
+186,Sri Lanka,South Asia,252,131,749,879,2998,5726,41,0.5198412698412699
+37,Cameroon,Sub-Saharan Africa,252,91,744,860,3106,1630,32,0.3611111111111111
+104,Kenya,Sub-Saharan Africa,252,141,678,772,1662,2211,18,0.5595238095238095
+123,Mali,Sub-Saharan Africa,252,114,662,976,3216,2065,30,0.4523809523809524
+217,United States,North America,252,189,642,757,3441,23843,23,0.75
+78,Greece,Western Europe,252,172,641,659,15,98,24,0.6825396825396826
+93,Indonesia,Southeast Asia,252,180,567,638,930,2069,56,0.7142857142857143
+137,Mozambique,Sub-Saharan Africa,252,64,527,565,1345,496,32,0.25396825396825395
+173,Saudi Arabia,Middle East & North Africa,252,110,479,563,603,1215,29,0.4365079365079365
+110,Lebanon,Middle East & North Africa,252,137,479,636,776,3145,20,0.5436507936507936
+69,France,Western Europe,252,152,459,503,312,1126,26,0.6031746031746031
+138,Myanmar,Southeast Asia,252,114,443,551,693,1001,59,0.4523809523809524
+185,Spain,Western Europe,252,103,389,427,274,2512,28,0.4087301587301587
+34,Burundi,Sub-Saharan Africa,252,99,345,388,1011,1059,27,0.39285714285714285
+41,Central African Republic,Sub-Saharan Africa,252,90,338,373,2429,1603,14,0.35714285714285715
+33,Burkina Faso,Sub-Saharan Africa,252,54,312,392,1733,714,16,0.21428571428571427
+75,Germany,Western Europe,252,92,260,284,59,291,12,0.36507936507936506
+1004,South Sudan,Sub-Saharan Africa,252,68,242,323,2854,1423,33,0.2698412698412698
+43,Chile,South America,252,81,226,229,8,74,15,0.32142857142857145
+183,South Africa,Sub-Saharan Africa,252,79,186,211,124,138,13,0.3134920634920635
+96,Ireland,Western Europe,252,82,176,194,4,19,6,0.3253968253968254
+213,Uganda,Sub-Saharan Africa,252,96,176,202,1349,569,8,0.38095238095238093
+65,Ethiopia,Sub-Saharan Africa,252,70,166,190,2167,902,14,0.2777777777777778
+18,Bahrain,Middle East & North Africa,252,54,165,169,29,168,11,0.21428571428571427
+146,Niger,Sub-Saharan Africa,252,72,161,217,1955,719,9,0.2857142857142857
+44,China,East Asia,252,72,155,173,840,1110,11,0.2857142857142857
+98,Italy,Western Europe,252,87,152,161,6,124,11,0.34523809523809523
+94,Iran,Middle East & North Africa,252,89,145,182,608,1308,4,0.3531746031746032
+130,Mexico,North America,252,81,138,196,244,343,9,0.32142857142857145
+1003,Kosovo,Eastern Europe,252,72,137,162,61,219,10,0.2857142857142857
+74,Georgia,Central Asia,252,57,105,114,51,180,13,0.2261904761904762
+198,Sweden,Western Europe,252,46,97,98,10,44,21,0.18253968253968253
+118,Macedonia,Eastern Europe,252,30,96,106,48,54,40,0.11904761904761904
+158,Paraguay,South America,252,43,81,87,52,36,5,0.17063492063492064
+208,Tunisia,Middle East & North Africa,252,51,79,138,332,389,5,0.20238095238095238
+38,Canada,North America,252,51,74,83,30,160,7,0.20238095238095238
+42,Chad,Sub-Saharan Africa,252,42,73,114,1373,1836,8,0.16666666666666666
+222,Venezuela,South America,252,45,68,83,76,186,4,0.17857142857142858
+142,Netherlands,Western Europe,252,32,65,71,14,37,23,0.12698412698412698
+8,Angola,Sub-Saharan Africa,252,34,65,81,1113,953,10,0.1349206349206349
+121,Malaysia,Southeast Asia,252,41,63,72,22,23,8,0.1626984126984127
+159,Peru,South America,252,48,62,88,145,181,4,0.19047619047619047
+203,Tanzania,Sub-Saharan Africa,252,40,58,64,98,156,3,0.15873015873015872
+59,Ecuador,South America,252,31,47,55,14,68,4,0.12301587301587301
+14,Australia,Australasia & Oceania,252,35,45,52,14,33,3,0.1388888888888889
+102,Jordan,Middle East & North Africa,252,27,41,48,123,233,6,0.10714285714285714
+30,Brazil,South America,252,33,39,48,26,21,3,0.13095238095238096
+99,Ivory Coast,Sub-Saharan Africa,252,25,39,66,235,163,5,0.0992063492063492
+168,Rwanda,Sub-Saharan Africa,252,28,37,40,105,351,3,0.1111111111111111
+101,Japan,East Asia,252,21,35,44,19,36,10,0.08333333333333333
+87,Haiti,Central America & Caribbean,252,21,33,39,31,61,5,0.08333333333333333
+11,Argentina,South America,252,22,32,35,2,10,3,0.0873015873015873
+174,Senegal,Sub-Saharan Africa,252,26,32,50,132,152,2,0.10317460317460317
+235,Yugoslavia,Eastern Europe,252,14,31,37,13,20,7,0.05555555555555555
+28,Bosnia-Herzegovina,Eastern Europe,252,24,30,35,9,34,3,0.09523809523809523
+231,Zimbabwe,Sub-Saharan Africa,252,21,29,34,21,121,4,0.08333333333333333
+202,Tajikistan,Central Asia,252,24,28,34,125,141,3,0.09523809523809523
+21,Belgium,Western Europe,252,19,27,32,47,309,8,0.07539682539682539
+83,Guatemala,Central America & Caribbean,252,12,24,24,20,22,4,0.047619047619047616
+177,Sierra Leone,Sub-Saharan Africa,252,8,24,28,61,31,8,0.031746031746031744
+143,New Caledonia,Australasia & Oceania,252,13,24,24,0,0,4,0.051587301587301584
+144,New Zealand,Australasia & Oceania,252,12,24,24,51,50,6,0.047619047619047616
+122,Maldives,South Asia,252,17,24,28,3,26,4,0.06746031746031746
+107,Kyrgyzstan,Central Asia,252,23,24,31,10,20,2,0.09126984126984126
+88,Honduras,Central America & Caribbean,252,14,22,23,47,17,8,0.05555555555555555
+15,Austria,Western Europe,252,16,22,23,10,35,6,0.06349206349206349
+53,Cyprus,Western Europe,252,15,21,23,0,0,4,0.05952380952380952
+47,Republic of the Congo,Sub-Saharan Africa,252,8,21,21,61,48,12,0.031746031746031744
+103,Kazakhstan,Central Asia,252,14,20,23,28,21,3,0.05555555555555555
+26,Bolivia,South America,252,9,19,21,12,69,8,0.03571428571428571
+54,Czech Republic,Eastern Europe,252,16,19,21,2,26,2,0.06349206349206349
+68,Finland,Western Europe,252,14,19,21,12,35,6,0.05555555555555555
+139,Namibia,Sub-Saharan Africa,252,10,19,27,25,94,7,0.03968253968253968
+199,Switzerland,Western Europe,252,15,18,20,15,25,2,0.05952380952380952
+16,Azerbaijan,Central Asia,252,14,17,19,13,30,3,0.05555555555555555
+36,Cambodia,Southeast Asia,252,9,17,21,22,39,4,0.03571428571428571
+84,Guinea,Sub-Saharan Africa,252,7,17,20,209,37,4,0.027777777777777776
+32,Bulgaria,Eastern Europe,252,15,17,19,13,32,2,0.05952380952380952
+108,Laos,Southeast Asia,252,11,17,19,15,71,3,0.04365079365079365
+145,Nicaragua,Central America & Caribbean,252,7,15,16,17,38,3,0.027777777777777776
+136,Morocco,Middle East & North Africa,252,7,14,14,77,150,5,0.027777777777777776
+76,Ghana,Sub-Saharan Africa,252,9,13,17,8,25,3,0.03571428571428571
+112,Liberia,Sub-Saharan Africa,252,13,13,14,18,8,1,0.051587301587301584
+5,Albania,Eastern Europe,252,13,13,17,1,2,1,0.051587301587301584
+63,Eritrea,Sub-Saharan Africa,252,6,13,14,40,43,7,0.023809523809523808
+86,Guyana,South America,252,7,12,16,33,18,6,0.027777777777777776
+119,Madagascar,Sub-Saharan Africa,252,9,12,13,6,125,3,0.03571428571428571
+12,Armenia,Central Asia,252,11,11,12,8,3,1,0.04365079365079365
+1001,Serbia,Eastern Europe,252,10,11,14,3,12,2,0.03968253968253968
+128,Mauritania,Sub-Saharan Africa,252,10,11,14,39,30,2,0.03968253968253968
+230,Zambia,Sub-Saharan Africa,252,3,11,11,0,2,8,0.011904761904761904
+151,Norway,Western Europe,252,8,10,13,79,78,2,0.031746031746031744
+201,Taiwan,East Asia,252,8,10,14,2,22,2,0.031746031746031744
+55,Denmark,Western Europe,252,8,10,12,3,13,2,0.031746031746031744
+175,Serbia-Montenegro,Eastern Europe,252,6,9,11,3,5,3,0.023809523809523808
+347,East Timor,Southeast Asia,252,9,9,10,9,7,1,0.03571428571428571
+50,Croatia,Eastern Europe,252,9,9,12,4,14,1,0.03571428571428571
+35,Belarus,Eastern Europe,252,8,9,11,13,212,2,0.031746031746031744
+157,Papua New Guinea,Australasia & Oceania,252,3,9,10,0,3,7,0.011904761904761904
+106,Kuwait,Middle East & North Africa,252,8,8,12,38,247,1,0.031746031746031744
+85,Guinea-Bissau,Sub-Saharan Africa,252,5,8,9,17,27,4,0.01984126984126984
+161,Poland,Eastern Europe,252,6,8,8,1,6,2,0.023809523809523808
+219,Uzbekistan,Central Asia,252,4,8,10,49,71,3,0.015873015873015872
+207,Trinidad and Tobago,Central America & Caribbean,252,5,7,10,0,14,3,0.01984126984126984
+184,South Korea,East Asia,252,7,7,7,0,64,1,0.027777777777777776
+223,Vietnam,Southeast Asia,252,4,7,7,0,1,3,0.015873015873015872
+120,Malawi,Sub-Saharan Africa,252,4,6,9,1,1,2,0.015873015873015872
+1002,Montenegro,Eastern Europe,252,6,6,8,2,1,1,0.023809523809523808
+90,Hungary,Eastern Europe,252,5,6,8,3,3,2,0.01984126984126984
+25,Bhutan,South Asia,252,6,6,6,9,5,1,0.023809523809523808
+197,Swaziland,Sub-Saharan Africa,252,4,5,5,0,0,2,0.015873015873015872
+72,Gabon,Sub-Saharan Africa,252,3,5,5,2,2,3,0.011904761904761904
+124,Malta,Western Europe,252,5,5,5,1,0,1,0.01984126984126984
+215,United Arab Emirates,Middle East & North Africa,252,4,5,5,1,1,2,0.015873015873015872
+132,Moldova,Eastern Europe,252,5,5,5,2,49,1,0.01984126984126984
+67,Fiji,Australasia & Oceania,252,3,4,5,7,17,2,0.011904761904761904
+156,Panama,Central America & Caribbean,252,3,3,3,1,0,1,0.011904761904761904
+100,Jamaica,Central America & Caribbean,252,3,3,4,0,2,1,0.011904761904761904
+109,Latvia,Eastern Europe,252,3,3,5,1,35,1,0.011904761904761904
+111,Lesotho,Sub-Saharan Africa,252,3,3,3,1,3,1,0.011904761904761904
+349,Western Sahara,Middle East & North Africa,252,3,3,3,0,3,1,0.011904761904761904
+56,Djibouti,Sub-Saharan Africa,252,3,3,4,5,22,1,0.011904761904761904
+23,Benin,Sub-Saharan Africa,252,3,3,3,2,5,1,0.011904761904761904
+89,Hong Kong,East Asia,252,3,3,5,0,64,1,0.011904761904761904
+162,Portugal,Western Europe,252,2,3,3,0,0,2,0.007936507936507936
+190,St. Lucia,Central America & Caribbean,252,2,2,2,2,12,1,0.007936507936507936
+181,Solomon Islands,Australasia & Oceania,252,2,2,3,2,0,1,0.007936507936507936
+218,Uruguay,South America,252,2,2,2,1,1,1,0.007936507936507936
+164,Qatar,Middle East & North Africa,252,2,2,4,3,13,1,0.007936507936507936
+179,Slovak Republic,Eastern Europe,252,2,2,3,2,5,1,0.007936507936507936
+91,Iceland,Western Europe,252,2,2,2,0,0,1,0.007936507936507936
+115,Lithuania,Eastern Europe,252,2,2,2,0,0,1,0.007936507936507936
+46,Comoros,Sub-Saharan Africa,252,1,2,3,0,1,2,0.003968253968253968
+49,Costa Rica,Central America & Caribbean,252,2,2,3,1,0,1,0.007936507936507936
+64,Estonia,Eastern Europe,252,2,2,3,2,0,1,0.007936507936507936
+22,Belize,Central America & Caribbean,252,2,2,2,0,0,1,0.007936507936507936
+17,Bahamas,Central America & Caribbean,252,1,1,1,0,0,1,0.003968253968253968
+166,Romania,Eastern Europe,252,1,1,1,0,1,1,0.003968253968253968
+210,Turkmenistan,Central Asia,252,1,1,2,3,3,1,0.003968253968253968
+422,International,Middle East & North Africa,252,1,1,1,1,12,1,0.003968253968253968
+58,Dominican Republic,Central America & Caribbean,252,1,1,2,2,1,1,0.003968253968253968
+62,Equatorial Guinea,Sub-Saharan Africa,252,1,1,1,1,3,1,0.003968253968253968
+73,Gambia,Sub-Saharan Africa,252,1,1,1,0,2,1,0.003968253968253968
+29,Botswana,Sub-Saharan Africa,252,0,0,0,0,0,0,0.0
+7,Andorra,Western Europe,252,0,0,0,0,0,0,0.0
+31,Brunei,Southeast Asia,252,0,0,0,0,0,0,0.0
+20,Barbados,Central America & Caribbean,252,0,0,0,0,0,0,0.0
+10,Antigua and Barbuda,Central America & Caribbean,252,0,0,0,0,0,0,0.0
+80,Grenada,Central America & Caribbean,252,0,0,0,0,0,0,0.0
+81,Guadeloupe,Central America & Caribbean,252,0,0,0,0,0,0,0.0
+70,French Guiana,South America,252,0,0,0,0,0,0,0.0
+57,Dominica,Central America & Caribbean,252,0,0,1,0,0,0,0.0
+61,El Salvador,Central America & Caribbean,252,0,0,0,0,0,0,0.0
+66,Falkland Islands,South America,252,0,0,0,0,0,0,0.0
+71,French Polynesia,Australasia & Oceania,252,0,0,0,0,0,0,0.0
+51,Cuba,Central America & Caribbean,252,0,0,1,1,0,0,0.0
+149,North Korea,East Asia,252,0,0,0,0,0,0,0.0
+129,Mauritius,South Asia,252,0,0,0,0,0,0,0.0
+127,Martinique,Central America & Caribbean,252,0,0,0,0,0,0,0.0
+117,Macau,East Asia,252,0,0,0,0,0,0,0.0
+116,Luxembourg,Western Europe,252,0,0,0,0,0,0,0.0
+178,Singapore,Southeast Asia,252,0,0,0,0,0,0,0.0
+180,Slovenia,Eastern Europe,252,0,0,1,0,0,0,0.0
+189,St. Kitts and Nevis,Central America & Caribbean,252,0,0,0,0,0,0,0.0
+204,Togo,Sub-Saharan Africa,252,0,0,1,0,0,0,0.0
+196,Suriname,South America,252,0,0,0,0,0,0,0.0
+176,Seychelles,Sub-Saharan Africa,252,0,0,0,0,0,0,0.0
+220,Vanuatu,Australasia & Oceania,252,0,0,0,0,0,0,0.0
+236,Czechoslovakia,Eastern Europe,252,0,0,0,0,0,0,0.0
+226,Wallis and Futuna,Australasia & Oceania,252,0,0,0,0,0,0,0.0
+221,Vatican City,Western Europe,252,0,0,0,0,0,0,0.0
+362,West Germany (FRG),Western Europe,252,0,0,0,0,0,0,0.0
+499,East Germany (GDR),Eastern Europe,252,0,0,0,0,0,0,0.0
+406,South Yemen,Middle East & North Africa,252,0,0,0,0,0,0,0.0
+403,Rhodesia,Sub-Saharan Africa,252,0,0,0,0,0,0,0.0
+377,North Yemen,Middle East & North Africa,252,0,0,0,0,0,0,0.0
+359,Soviet Union,Eastern Europe,252,0,0,0,0,0,0,0.0
+605,People's Republic of the Congo,Sub-Saharan Africa,252,0,0,0,0,0,0,0.0
+532,New Hebrides,Australasia & Oceania,252,0,0,0,0,0,0,0.0
+604,Zaire,Sub-Saharan Africa,252,0,0,0,0,0,0,0.0
