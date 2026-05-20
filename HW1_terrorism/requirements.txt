@@ -3,3 +3,5 @@ numpy
 openpyxl
 pyarrow
 matplotlib
+scikit-learn
+panelsplit

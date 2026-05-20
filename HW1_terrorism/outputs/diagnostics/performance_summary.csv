@@ -1,0 +1,3 @@
+Target,Valid rows,Positive rate,AUC-ROC,Average Precision,Skill vs random (AP)
+Incidence (next month),3588,0.288,0.939,0.893,3.10x
+Onset (next 3 months),2324,0.206,0.843,0.655,3.18x

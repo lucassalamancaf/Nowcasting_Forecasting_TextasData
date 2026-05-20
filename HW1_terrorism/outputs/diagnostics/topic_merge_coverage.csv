@@ -1,0 +1,157 @@
+country_txt,iso3,region_txt,total_months,months_with_topics,topic_coverage
+Afghanistan,AFG,South Asia,132,132,1.0
+Albania,ALB,Eastern Europe,132,132,1.0
+Algeria,DZA,Middle East & North Africa,132,132,1.0
+Angola,AGO,Sub-Saharan Africa,132,132,1.0
+Argentina,ARG,South America,132,132,1.0
+Armenia,ARM,Central Asia,132,132,1.0
+Australia,AUS,Australasia & Oceania,132,132,1.0
+Austria,AUT,Western Europe,132,132,1.0
+Azerbaijan,AZE,Central Asia,132,132,1.0
+Bahrain,BHR,Middle East & North Africa,132,132,1.0
+Bangladesh,BGD,South Asia,132,132,1.0
+Belarus,BLR,Eastern Europe,132,132,1.0
+Belgium,BEL,Western Europe,132,132,1.0
+Bolivia,BOL,South America,132,132,1.0
+Bosnia-Herzegovina,BIH,Eastern Europe,132,132,1.0
+Botswana,BWA,Sub-Saharan Africa,132,132,1.0
+Brazil,BRA,South America,132,132,1.0
+Bulgaria,BGR,Eastern Europe,132,132,1.0
+Burkina Faso,BFA,Sub-Saharan Africa,132,132,1.0
+Burundi,BDI,Sub-Saharan Africa,132,132,1.0
+Cambodia,KHM,Southeast Asia,132,132,1.0
+Cameroon,CMR,Sub-Saharan Africa,132,132,1.0
+Canada,CAN,North America,132,132,1.0
+Central African Republic,CAF,Sub-Saharan Africa,132,132,1.0
+Chad,TCD,Sub-Saharan Africa,132,132,1.0
+Chile,CHL,South America,132,132,1.0
+China,CHN,East Asia,132,132,1.0
+Colombia,COL,South America,132,132,1.0
+Comoros,COM,Sub-Saharan Africa,132,132,1.0
+Costa Rica,CRI,Central America & Caribbean,132,132,1.0
+Croatia,HRV,Eastern Europe,132,132,1.0
+Cuba,CUB,Central America & Caribbean,132,132,1.0
+Cyprus,CYP,Western Europe,132,132,1.0
+Czech Republic,CZE,Eastern Europe,132,132,1.0
+Democratic Republic of the Congo,COD,Sub-Saharan Africa,132,132,1.0
+Denmark,DNK,Western Europe,132,132,1.0
+Djibouti,DJI,Sub-Saharan Africa,132,132,1.0
+Dominican Republic,DOM,Central America & Caribbean,132,132,1.0
+East Timor,TLS,Southeast Asia,132,132,1.0
+Ecuador,ECU,South America,132,132,1.0
+Egypt,EGY,Middle East & North Africa,132,132,1.0
+El Salvador,SLV,Central America & Caribbean,132,132,1.0
+Eritrea,ERI,Sub-Saharan Africa,132,132,1.0
+Estonia,EST,Eastern Europe,132,132,1.0
+Ethiopia,ETH,Sub-Saharan Africa,132,132,1.0
+Fiji,FJI,Australasia & Oceania,132,132,1.0
+Finland,FIN,Western Europe,132,132,1.0
+France,FRA,Western Europe,132,132,1.0
+Gabon,GAB,Sub-Saharan Africa,132,132,1.0
+Georgia,GEO,Central Asia,132,132,1.0
+Germany,DEU,Western Europe,132,132,1.0
+Ghana,GHA,Sub-Saharan Africa,132,132,1.0
+Greece,GRC,Western Europe,132,132,1.0
+Guatemala,GTM,Central America & Caribbean,132,132,1.0
+Guinea,GIN,Sub-Saharan Africa,132,132,1.0
+Guinea-Bissau,GNB,Sub-Saharan Africa,132,132,1.0
+Haiti,HTI,Central America & Caribbean,132,132,1.0
+Honduras,HND,Central America & Caribbean,132,132,1.0
+Hungary,HUN,Eastern Europe,132,132,1.0
+Iceland,ISL,Western Europe,132,132,1.0
+India,IND,South Asia,132,132,1.0
+Indonesia,IDN,Southeast Asia,132,132,1.0
+Iran,IRN,Middle East & North Africa,132,132,1.0
+Iraq,IRQ,Middle East & North Africa,132,132,1.0
+Ireland,IRL,Western Europe,132,132,1.0
+Israel,ISR,Middle East & North Africa,132,132,1.0
+Italy,ITA,Western Europe,132,132,1.0
+Ivory Coast,CIV,Sub-Saharan Africa,132,132,1.0
+Jamaica,JAM,Central America & Caribbean,132,132,1.0
+Japan,JPN,East Asia,132,132,1.0
+Jordan,JOR,Middle East & North Africa,132,132,1.0
+Kazakhstan,KAZ,Central Asia,132,132,1.0
+Kenya,KEN,Sub-Saharan Africa,132,132,1.0
+Kosovo,XKX,Eastern Europe,132,132,1.0
+Kuwait,KWT,Middle East & North Africa,132,132,1.0
+Kyrgyzstan,KGZ,Central Asia,132,132,1.0
+Laos,LAO,Southeast Asia,132,132,1.0
+Latvia,LVA,Eastern Europe,132,132,1.0
+Lebanon,LBN,Middle East & North Africa,132,132,1.0
+Liberia,LBR,Sub-Saharan Africa,132,132,1.0
+Libya,LBY,Middle East & North Africa,132,132,1.0
+Lithuania,LTU,Eastern Europe,132,132,1.0
+Luxembourg,LUX,Western Europe,132,132,1.0
+Macedonia,MKD,Eastern Europe,132,132,1.0
+Madagascar,MDG,Sub-Saharan Africa,132,132,1.0
+Malawi,MWI,Sub-Saharan Africa,132,132,1.0
+Malaysia,MYS,Southeast Asia,132,132,1.0
+Mali,MLI,Sub-Saharan Africa,132,132,1.0
+Malta,MLT,Western Europe,132,132,1.0
+Mauritania,MRT,Sub-Saharan Africa,132,132,1.0
+Mexico,MEX,North America,132,132,1.0
+Moldova,MDA,Eastern Europe,132,132,1.0
+Montenegro,MNE,Eastern Europe,132,132,1.0
+Morocco,MAR,Middle East & North Africa,132,132,1.0
+Mozambique,MOZ,Sub-Saharan Africa,132,132,1.0
+Myanmar,MMR,Southeast Asia,132,132,1.0
+Namibia,NAM,Sub-Saharan Africa,132,132,1.0
+Nepal,NPL,South Asia,132,132,1.0
+Netherlands,NLD,Western Europe,132,132,1.0
+New Zealand,NZL,Australasia & Oceania,132,132,1.0
+Nicaragua,NIC,Central America & Caribbean,132,132,1.0
+Niger,NER,Sub-Saharan Africa,132,132,1.0
+Nigeria,NGA,Sub-Saharan Africa,132,132,1.0
+North Korea,PRK,East Asia,132,132,1.0
+Norway,NOR,Western Europe,132,132,1.0
+Pakistan,PAK,South Asia,132,132,1.0
+Panama,PAN,Central America & Caribbean,132,132,1.0
+Papua New Guinea,PNG,Australasia & Oceania,132,132,1.0
+Paraguay,PRY,South America,132,132,1.0
+Peru,PER,South America,132,132,1.0
+Philippines,PHL,Southeast Asia,132,132,1.0
+Poland,POL,Eastern Europe,132,132,1.0
+Portugal,PRT,Western Europe,132,132,1.0
+Qatar,QAT,Middle East & North Africa,132,132,1.0
+Republic of the Congo,COG,Sub-Saharan Africa,132,132,1.0
+Romania,ROU,Eastern Europe,132,132,1.0
+Russia,RUS,Eastern Europe,132,132,1.0
+Rwanda,RWA,Sub-Saharan Africa,132,132,1.0
+Saudi Arabia,SAU,Middle East & North Africa,132,132,1.0
+Senegal,SEN,Sub-Saharan Africa,132,132,1.0
+Serbia,SRB,Eastern Europe,132,132,1.0
+Sierra Leone,SLE,Sub-Saharan Africa,132,132,1.0
+Singapore,SGP,Southeast Asia,132,132,1.0
+Slovak Republic,SVK,Eastern Europe,132,132,1.0
+Slovenia,SVN,Eastern Europe,132,132,1.0
+Somalia,SOM,Sub-Saharan Africa,132,132,1.0
+South Africa,ZAF,Sub-Saharan Africa,132,132,1.0
+South Korea,KOR,East Asia,132,132,1.0
+South Sudan,SSD,Sub-Saharan Africa,132,114,0.8636363636363636
+Spain,ESP,Western Europe,132,132,1.0
+Sri Lanka,LKA,South Asia,132,132,1.0
+Sudan,SDN,Sub-Saharan Africa,132,132,1.0
+Sweden,SWE,Western Europe,132,132,1.0
+Switzerland,CHE,Western Europe,132,132,1.0
+Syria,SYR,Middle East & North Africa,132,132,1.0
+Taiwan,TWN,East Asia,132,132,1.0
+Tajikistan,TJK,Central Asia,132,132,1.0
+Tanzania,TZA,Sub-Saharan Africa,132,132,1.0
+Thailand,THA,Southeast Asia,132,132,1.0
+Togo,TGO,Sub-Saharan Africa,132,132,1.0
+Tunisia,TUN,Middle East & North Africa,132,132,1.0
+Turkey,TUR,Middle East & North Africa,132,132,1.0
+Turkmenistan,TKM,Central Asia,132,132,1.0
+Uganda,UGA,Sub-Saharan Africa,132,132,1.0
+Ukraine,UKR,Eastern Europe,132,132,1.0
+United Arab Emirates,ARE,Middle East & North Africa,132,132,1.0
+United Kingdom,GBR,Western Europe,132,132,1.0
+United States,USA,North America,132,132,1.0
+Uruguay,URY,South America,132,132,1.0
+Uzbekistan,UZB,Central Asia,132,132,1.0
+Venezuela,VEN,South America,132,132,1.0
+Vietnam,VNM,Southeast Asia,132,132,1.0
+West Bank and Gaza Strip,PSE,Middle East & North Africa,132,132,1.0
+Yemen,YEM,Middle East & North Africa,132,132,1.0
+Zambia,ZMB,Sub-Saharan Africa,132,132,1.0
+Zimbabwe,ZWE,Sub-Saharan Africa,132,132,1.0
