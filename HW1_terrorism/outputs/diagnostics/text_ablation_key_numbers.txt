@@ -1,0 +1,22 @@
+Text ablation key numbers
+=========================
+
+Same rolling forecast design as src/05_rolling_forecast.py:
+n_splits=24, test_size=1, horizon=3, gap=2
+
+Incidence: attack next month
+  With text topics: AUC=0.939, AP=0.893, baseline=0.288, AP/random=3.10x
+  Without text topics: AUC=0.938, AP=0.893, baseline=0.288, AP/random=3.10x
+  Text gain: delta AUC=0.001, delta AP=-0.001
+
+Onset: attack in next 3 months
+  With text topics: AUC=0.843, AP=0.655, baseline=0.206, AP/random=3.18x
+  Without text topics: AUC=0.841, AP=0.655, baseline=0.206, AP/random=3.19x
+  Text gain: delta AUC=0.002, delta AP=-0.000
+
+Report note:
+Use the ROC curves to discuss ranking/discrimination, and the
+precision-recall curves to discuss performance under class imbalance.
+The text-gain rows say whether the conflictforecast.org topic stocks
+add incremental signal beyond terrorism history, macro variables,
+democracy, and ongoing conflict.

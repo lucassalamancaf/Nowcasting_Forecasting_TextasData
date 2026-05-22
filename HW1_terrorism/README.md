@@ -48,6 +48,19 @@ To create initial descriptive tables and plots after the panel has been built:
 python src/02_describe_gtd_country_month_panel.py
 ```
 
+To compare the rolling forecasts with and without the text-topic features:
+
+```bash
+python src/07_compare_text_ablation.py
+```
+
+After the ablation predictions have been created once, rerun only the metrics
+and plots with:
+
+```bash
+python src/07_compare_text_ablation.py --reuse-predictions
+```
+
 ## Outputs
 
 The panel-building script creates:
@@ -86,6 +99,16 @@ outputs/figures/region_attack_month_share.png
 outputs/figures/positive_country_month_attack_distribution.png
 outputs/figures/country_zoom_attacks_by_month.png
 outputs/figures/top30_country_attack_month_heatmap.png
+```
+
+The text-ablation script creates:
+
+```text
+data/processed/gtd_text_ablation_preds_inc.csv
+data/processed/gtd_text_ablation_preds_ons.csv
+outputs/diagnostics/text_ablation_performance_summary.csv
+outputs/diagnostics/text_ablation_key_numbers.txt
+outputs/figures/text_ablation_roc_pr_curves.png
 ```
 
 ## Panel Columns

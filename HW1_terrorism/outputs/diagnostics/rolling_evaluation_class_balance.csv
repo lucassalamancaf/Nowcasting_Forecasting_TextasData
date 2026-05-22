@@ -1,0 +1,4 @@
+outcome,definition,positive_rows,negative_rows,valid_rows,positive_rate,negative_rate
+Incidence next month,Any strict terrorist attack in t+1,1033,2555,3588,0.2879041248606466,0.7120958751393534
+Onset next 3 months,No strict attack in t; any strict terrorist attack in t+1 to t+3,478,1846,2324,0.20567986230636834,0.7943201376936316
+Hard onset next 3 months,No strict attack in t or prior 59 months; any strict terrorist attack in t+1 to t+3,14,462,476,0.029411764705882353,0.9705882352941176
