@@ -1,3 +1,0 @@
-outcome,definition,positive_rows,negative_rows,total_rows,positive_rate,negative_rate,extra_positive_vs_strict
-strict_attack_month,n_attacks_strict > 0,9119,42289,51408,0.1773848428260193,0.8226151571739807,0
-all_gtd_attack_month,n_attacks_all > 0,9713,41695,51408,0.1889394646747588,0.8110605353252411,594

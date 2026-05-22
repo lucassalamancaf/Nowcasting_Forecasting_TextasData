@@ -1,5 +1,0 @@
-outcome,definition,positive_rows,negative_rows,valid_rows,missing_rows,positive_rate,negative_rate
-incidence_next_month_t,strict attack occurs in t+1,9080,42124,51204,204,0.17732989610186703,0.822670103898133
-onset_next_month_t,no strict attack in t; strict attack occurs in t+1,2587,39538,42125,9283,0.06141246290801187,0.9385875370919882
-onset_next_3months_t,"no strict attack in t; strict attack occurs in t+1, t+2, or t+3",5701,36106,41807,9601,0.13636472361087856,0.8636352763891214
-hard_onset_next_3months_t,"60 prior attack-free months through t; strict attack occurs in t+1, t+2, or t+3",308,13953,14261,37147,0.021597363438749035,0.9784026365612509
