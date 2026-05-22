@@ -1,0 +1,4 @@
+Model,AUC-ROC,Avg Precision,Baseline,Skill ratio
+Random Forest (Ben's model),0.843,0.655,0.206,3.18
+Logistic Regression (L2 regularised),0.835,0.649,0.206,3.16
+Gradient Boosting,0.84,0.637,0.206,3.1
